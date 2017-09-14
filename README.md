@@ -1,2 +1,2 @@
 # OpenNN
-Hard Code of NeuralNetwork with java
+Hard Code of NeuralNetwork with java :)
